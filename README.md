@@ -1,6 +1,9 @@
 Tyrant-SQL
 ==========
 
+# Important!!
+## I'm working on a new version from zero, cross platform and with a big chain of new features. If you are interested on helping this new software, contact me aron.bordin@gmail.com
+
 Powerful GUI SQL injection Tool. SQLMap's GUI version.
 
 
